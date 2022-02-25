@@ -1,0 +1,109 @@
+#L1{
+	font-family:Times new roman, sanserif, verdana, arial;
+	text-decoration:none;
+}
+#L1:visited{
+	color:blue;	
+}
+#L1:hover{
+	color:red;
+}
+#L1:link{
+	color:blue;
+}
+#L1:active{
+	color:blue;
+}
+body{
+	background-color:lightblue;
+	line-height:15pt;
+	font-size:13pt;
+	margin:15px;
+}
+h1{
+	font-family:Times new roman;
+	color:blue;
+	text-align:center;
+	line-height:19pt;
+}
+h3{
+	font-family:Times new roman;
+	color:blue;
+	text-align:left;
+}
+
+.pp{
+	font-family:San-serif;
+	font-size:13pt;
+}
+span{font-family:times new roman;
+	font-style:italic;
+	font-weight:bold;
+	color:blue;
+
+}
+div.imageleft {
+float:left;
+clear: all;
+text-align:left;
+font-size:10px;
+font-style:italic;
+}
+div.note{
+	color:green; 
+	font-style:italic; 
+	font-weight:bold; 
+	font-family:times new roman; 
+	text-align:center;">
+}
+table{
+	background-color:grey;
+	text-align:left;
+	border-style:solid;
+	border-color:black;
+	color:white;
+}
+.image2{
+	float:right;
+	text-align:left;
+}
+#Niall{
+	background-color:white;
+	width:200px;
+	height:auto;
+	margin-top:10px;
+	margin-right:20px;
+	margin-left:20px;
+	margin-bottom:10px;
+	font-family:arial;
+	font-size:9pt;
+	font-style:italic;
+}
+#pep{
+	background-color:white;
+	width:200px;
+	height:auto;
+	margin-top:10px;
+	margin-right:20px;
+	margin-left:20px;
+	margin-bottom:10px;
+	font-family:arial;
+	font-size:9pt;
+	font-style:italic;
+}
+#footer{
+	text-decoration:none;
+	font-family:arial;
+}
+#footer:link{
+color:black;
+}
+#footer:visited{
+	color:black;
+}
+#footer:hover{
+	color:grey;
+}
+#footer:active{
+	color:black;
+}
